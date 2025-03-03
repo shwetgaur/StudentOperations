@@ -18,4 +18,4 @@ This is a menu-driven Java program to manage student data using classes, arrays,
 ## How to Run
 1. Clone the repository:
    ```sh
-   git clone <repository_link>
+   git clone https://github.com/shwetgaur/StudentOperations.git
